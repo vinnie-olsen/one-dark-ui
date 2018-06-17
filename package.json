@@ -1,15 +1,15 @@
 {
-  "name": "one-dark-ui",
+  "name": "polar-jungle-ui",
   "theme": "ui",
   "version": "1.12.3",
-  "description": "Atom One dark UI theme",
+  "description": "Atom Polar Jungle UI theme (fork of One Dark UI)",
   "keywords": [
     "dark",
     "adaptive",
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/vinnie-olsen/polar-jungle-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
